@@ -1,1 +1,1 @@
-# Basic-Python-Part1
+# Teach Myself basic Python Data Types
